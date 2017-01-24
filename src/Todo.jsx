@@ -14,7 +14,7 @@ export default class Todo extends ShallowComponent {
 
         this.store = new Store({
             endPoint: new RemoteEndPoint({
-                url: "http://127.0.0.1:3000/todo",
+                url: "http://127.0.0.1:3000/files",
                 idField: "id"
             }),
             idField: "id",

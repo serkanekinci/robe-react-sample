@@ -18,20 +18,33 @@
   ],
   "todo": [
     {
-      "id": 1,
-      "value": "serkan"
-    },
-    {
-      "id": 2,
-      "value": "fafsaf"
-    },
-    {
       "id": 3,
       "value": "fasfas"
     },
     {
       "id": 4,
       "value": "fsdfdsfs"
+    },
+    {
+      "id": 5,
+      "value": "gewg"
+    }
+  ],
+  "files": [
+    {
+      "id": 1,
+      "name": "fasfas",
+      "size":1024
+    },
+    {
+      "id": 2,
+      "name": "fsdfdsfs",
+      "size":1024
+    },
+    {
+      "id": 3,
+      "name": "gewg",
+      "size":1024
     }
   ]
 }

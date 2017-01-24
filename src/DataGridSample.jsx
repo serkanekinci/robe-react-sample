@@ -21,7 +21,7 @@ export default class DataGridSample extends ShallowComponent {
             fields: [
                 { name: "id", visible: false },
                 { name: "name", type: "string" },
-                { name: "surname", type: "string" }
+                { name: "size", type: "number" }
             ],
             store1: store1,
         }
