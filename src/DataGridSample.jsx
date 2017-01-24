@@ -3,7 +3,7 @@ import { ShallowComponent, Store, LocalEndPoint } from "robe-react-commons";
 import DataGrid from "robe-react-ui/lib/datagrid/DataGrid";
 export default class DataGridSample extends ShallowComponent {
 
-    static idField = "id";
+    static idField = " id ";
 
     constructor(props: Object) {
         super(props);
